@@ -1,0 +1,12 @@
+body{
+
+    background-color: aqua;
+
+}
+
+header{
+    display: flex;
+    background-color: rgb(255, 0, 85);
+
+}
+
